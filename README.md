@@ -14,7 +14,7 @@ Doubleback is in beta. This repository is a public showcase; the source is priva
 
 ## How it was built
 
-Built from PREYR's camera core and spun out as its own product: proof that the core can be rebranded and reused. 21 builds so far, tested on an iPhone 15 Pro Max, a Pixel 8 Pro and a Samsung A35. Free with a watermark; a one-time unlock removes it, and a second upgrade puts your own logo on the footage.
+Built from PREYR's camera core and spun out as its own product: proof that the core can be rebranded and reused. Free with a watermark; a one-time unlock removes it, and a second upgrade puts your own logo on the footage.
 
 Stack: React Native, Python (FastAPI), Railway, RevenueCat.
 
